@@ -1,0 +1,22 @@
+{
+  "name": "cfb-mongodb-api",
+  "version": "1.0.0",
+  "description": "api for cfb pickem app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyrodriguez/cfb.git"
+  },
+  "author": "Anthony Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyrodriguez/cfb/issues"
+  },
+  "homepage": "https://github.com/anthonyrodriguez/cfb#readme",
+  "dependencies": {
+    "mongodb": "^3.5.2"
+  }
+}
