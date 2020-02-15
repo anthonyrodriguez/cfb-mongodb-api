@@ -2,6 +2,6 @@
     "name": "cfb-mongodb-api",
     "version": 2,
     "env": {
-        "MONGODB_URI": "@cfb-mongodb-uri"
+        "LOCAL_MONGODB_URI": "@cfb-mongodb-uri"
     }
 }
